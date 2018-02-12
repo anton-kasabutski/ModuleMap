@@ -9,7 +9,7 @@ Rectangle {
 
     color: "#eeffffff"
 
-    function placeOverview() {
+    function reset() {
         place = null
         distance = 0
         placeIcon = null
