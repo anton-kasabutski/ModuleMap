@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>assets/map_status_background.png</file>
+        <file>assets/map_status_lock.png</file>
+        <file>assets/map_status_explore.png</file>
+        <file>qml/Views/ViewMap.qml</file>
+        <file>qml/Views/ViewNavigation.qml</file>
+        <file>assets/map_menu_location.png</file>
+        <file>assets/map_menu_poi_off.png</file>
+        <file>assets/map_menu_poi_loading.png</file>
+        <file>assets/map_menu_poi_ready.png</file>
+        <file>assets/map_menu_navigation.png</file>
+        <file>assets/map_menu_elementbg.png</file>
+        <file>qml/Views/ViewMenu.qml</file>
+        <file>assets/map_menu_elementbg_active.png</file>
+        <file>assets/navigation_mers.png</file>
+        <file>assets/navigation_background.jpg</file>
+        <file>assets/navigation_back.png</file>
+        <file>assets/map_marker.png</file>
+        <file>assets/map_destination.png</file>
+        <file>qml/Items/ItemTouchArea.qml</file>
+        <file>qml/Items/ItemPlaceOverview.qml</file>
+    </qresource>
+</RCC>
